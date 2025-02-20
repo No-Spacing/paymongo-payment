@@ -1,8 +1,7 @@
-# Features
-  1. It uses paymongo api for payment method.
-  2. Laravel 11 for back-end.
-  3. InertiaJs and VueJS for front-end.
-  4. VuetifyJS(Material Design) for UI.
+  - Paymongo api for payment gateway.
+  - Laravel 11 for back-end.
+  - InertiaJs and VueJS for front-end.
+  - VuetifyJS(Material Design) for UI.
 # Screenshots (This is only a test data from paymongo)
   1. Shop Page
      ![alt text](https://github.com/No-Spacing/paymongo-payment/blob/main/screenshots/sc1.jpg)
